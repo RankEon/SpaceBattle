@@ -1,0 +1,17 @@
+E:\Pasi\Ohjelmointi\CSharp\SpaceInvadersClone\SpaceInvaders\SpaceInvaders\bin\Release\SpaceInvaders.exe.config
+E:\Pasi\Ohjelmointi\CSharp\SpaceInvadersClone\SpaceInvaders\SpaceInvaders\bin\Release\SpaceInvaders.exe
+E:\Pasi\Ohjelmointi\CSharp\SpaceInvadersClone\SpaceInvaders\SpaceInvaders\bin\Release\SpaceInvaders.pdb
+E:\Pasi\Ohjelmointi\CSharp\SpaceInvadersClone\SpaceInvaders\SpaceInvaders\obj\Release\GameCanvas.g.cs
+E:\Pasi\Ohjelmointi\CSharp\SpaceInvadersClone\SpaceInvaders\SpaceInvaders\obj\Release\MainMenu.g.cs
+E:\Pasi\Ohjelmointi\CSharp\SpaceInvadersClone\SpaceInvaders\SpaceInvaders\obj\Release\MainWindow.g.cs
+E:\Pasi\Ohjelmointi\CSharp\SpaceInvadersClone\SpaceInvaders\SpaceInvaders\obj\Release\App.g.cs
+E:\Pasi\Ohjelmointi\CSharp\SpaceInvadersClone\SpaceInvaders\SpaceInvaders\obj\Release\SpaceInvaders_MarkupCompile.cache
+E:\Pasi\Ohjelmointi\CSharp\SpaceInvadersClone\SpaceInvaders\SpaceInvaders\obj\Release\SpaceInvaders_MarkupCompile.lref
+E:\Pasi\Ohjelmointi\CSharp\SpaceInvadersClone\SpaceInvaders\SpaceInvaders\obj\Release\GameCanvas.baml
+E:\Pasi\Ohjelmointi\CSharp\SpaceInvadersClone\SpaceInvaders\SpaceInvaders\obj\Release\MainMenu.baml
+E:\Pasi\Ohjelmointi\CSharp\SpaceInvadersClone\SpaceInvaders\SpaceInvaders\obj\Release\MainWindow.baml
+E:\Pasi\Ohjelmointi\CSharp\SpaceInvadersClone\SpaceInvaders\SpaceInvaders\obj\Release\SpaceInvaders.g.resources
+E:\Pasi\Ohjelmointi\CSharp\SpaceInvadersClone\SpaceInvaders\SpaceInvaders\obj\Release\SpaceInvaders.Properties.Resources.resources
+E:\Pasi\Ohjelmointi\CSharp\SpaceInvadersClone\SpaceInvaders\SpaceInvaders\obj\Release\SpaceInvaders.csproj.GenerateResource.Cache
+E:\Pasi\Ohjelmointi\CSharp\SpaceInvadersClone\SpaceInvaders\SpaceInvaders\obj\Release\SpaceInvaders.exe
+E:\Pasi\Ohjelmointi\CSharp\SpaceInvadersClone\SpaceInvaders\SpaceInvaders\obj\Release\SpaceInvaders.pdb

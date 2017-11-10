@@ -1,0 +1,28 @@
+﻿<Page x:Name="GameCanvas1" x:Class="SpaceInvaders.GameCanvas"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SpaceInvaders"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="1000"
+      Title="GameCanvas"
+      Background="Black" PreviewKeyDown="GameCanvas_PreviewKeyDown" PreviewKeyUp="GameCanvas_PreviewKeyUp">
+
+    <Grid Loaded="GameCanvas_Loaded">
+        <Image Name="ImgStarField" Source="Resources/starfield.png"  Stretch="UniformToFill"/>
+        <Canvas Name="EnemyCanvas"  />
+        <Canvas Name="HeroAmmoCanvas" />
+        <Canvas Name="EnemyAmmoCanvas" />
+        <Canvas Name="AmmoEffectsCanvas" />
+        <Canvas Name="HeroDamageEffectsCanvas" />
+        <Canvas Name="InformationCanvas">
+            <TextBlock Name="tbPlayerLives" Width="50" Height="22" Canvas.Top="10" Canvas.Left="10" Text="3" Foreground="White" FontSize="20" />
+            <TextBlock Name="tbPlayerUpText" Width="50" Height="22" Canvas.Top="10" Canvas.Left="60" Text="UP" Foreground="White" FontSize="20" />
+            <TextBlock Name="tbScore" Width="200" Height="22" Canvas.Top="10" Canvas.Left="160" Text="0" Foreground="LightGoldenrodYellow" FontSize="20" />
+            <TextBlock Name="tbMessage" Width="200" Height="22" Canvas.Top="10" Canvas.Left="370" Text="" Foreground="White" FontSize="20" />
+        </Canvas>
+        <Canvas Name="PlayerCanvas" />
+    </Grid>
+
+</Page>
